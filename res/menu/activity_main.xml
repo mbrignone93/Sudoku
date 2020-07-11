@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/nuevoJuego" android:title="Nuevo Juego" android:visible="true"></item>
+    <item android:id="@+id/acercaDe" android:title="Acerca de" android:visible="true"></item>
+    <item android:id="@+id/salir" android:title="Salir" android:visible="true"></item>
+
+</menu>
